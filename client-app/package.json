@@ -1,0 +1,8 @@
+{
+  "jspm": {
+    "dependencies": {
+      "npm:rsvp": "^3.0.14",
+      "npm:guid": "^0.0.12"
+    }
+  }
+}
